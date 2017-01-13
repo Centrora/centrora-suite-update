@@ -1,0 +1,21 @@
+1. Please install both the component and the plugin files
+2. Install the database table in the Dashboard
+3. Enable the Centrora Security Plugin
+
+If you encounter any problems, please visit our website here to ask for support: 
+
+https://www.centrora.com/support-center/
+
+Trouble shooting:
+
+CDbCommand failed to execute the SQL statement
+https://www.centrora.com/cdbcommand-failed-to-execute-the-sql-statement/
+
+Fatal error: Class PDO not found
+https://www.centrora.com/fatal-error-class-pdo-not-found/
+
+Application runtime path is not valid
+https://www.centrora.com/application-runtime-path-valid/
+
+CREATE VIEW command denied to user Error
+https://www.centrora.com/create-view-command-denied-user-error/
