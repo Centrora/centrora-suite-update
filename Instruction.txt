@@ -4,18 +4,13 @@
 
 If you encounter any problems, please visit our website here to ask for support: 
 
-https://www.centrora.com/support-center/
+https://www.centrora.com/support
 
 Trouble shooting:
 
-CDbCommand failed to execute the SQL statement
-https://www.centrora.com/cdbcommand-failed-to-execute-the-sql-statement/
-
 Fatal error: Class PDO not found
-https://www.centrora.com/fatal-error-class-pdo-not-found/
+https://docs.centrora.com/en/latest/pdo-class.html
 
 Application runtime path is not valid
-https://www.centrora.com/application-runtime-path-valid/
+https://docs.centrora.com/en/latest/pdo-class.html
 
-CREATE VIEW command denied to user Error
-https://www.centrora.com/create-view-command-denied-user-error/
